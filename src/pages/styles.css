@@ -1,0 +1,20 @@
+.bg-banner{
+    background-image: url(/public/mintpage/background_shark.svg);
+    background-size: cover;
+}
+
+.header{
+    background-image: url(/public/header_bg_gradient.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.story{
+    background-image: url(/public/bg_story_gradient.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.gradient3{
+    background-image: url(/public/bg_gradient_3.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
